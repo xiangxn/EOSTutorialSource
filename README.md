@@ -1,1 +1,1 @@
-# my.contracts
+# This is the EOS basic tutorial source.
